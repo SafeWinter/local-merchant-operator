@@ -1,22 +1,16 @@
-# 《Redis 4.x Cookbook》Learning Notes
+# 《Local Merchant Operator》Learning Notes
 
 
 
-## 1. Profiles
+## 1. Profiles                                               
 
-![Redis 4.x Cookbook](assets/cover.png)
+![LMO logo](assets/cover.png)
 
-|    **Title**    | **Redis 4.x Cookbook** [ISBN: 9781783988167] |
-| :-------------: | :----------------------------------------------------------: |
-|   **Author**    |               **Pengcheng Huang, Zuofei Wang**               |
-| **Publication** |                      **Packt, 2018.2**                       |
-|    **Pages**    |                           **374**                            |
-
-> **Introduction**
->
-> Redis is considered the world's most popular key-value store database. Its versatility and the wide variety of use cases it enables have made it a popular choice of database for many enterprises. Based on the latest version of Redis, this book provides both step-by-step recipes and relevant the background information required to utilize its features to the fullest. It covers everything from a basic understanding of Redis data types to advanced aspects of Redis high availability, clustering, administration, and troubleshooting. This book will be your great companion to master all aspects of Redis.
->
-> The book starts off by installing and configuring Redis for you to get started with ease. Moving on, all the data types and features of Redis are introduced in detail. Next, you will learn how to develop applications with Redis in Java, Python, and the Spring Boot web framework. You will also learn replication tasks, which will help you to troubleshoot replication issues. Furthermore, you will learn the steps that need to be undertaken to ensure high availability on your cluster and during production deployment. Toward the end of the book, you will learn the topmost tasks that will help you to troubleshoot your ecosystem efficiently, along with extending Redis by using different modules.
+|    **Title**    |   **抖音本地商家运营师（Local Merchant Operator）**    |
+| :-------------: | :----------------------------------------------------: |
+|   **Author**    | **巨量本地推官方认证讲师：羽杰（谋事内容中心负责人）** |
+| **Publication** |                      **谋事APP**                       |
+|    **Parts**    |               **41 (7h06m32s in total)**               |
 
 
 
@@ -24,19 +18,72 @@
 
 Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started) | :orange_book: (Finish reading)
 
-| No.  |        Chapter Title        |          Status          |
-| :--: | :-------------------------: | :----------------------: |
-| Ch01 | [Chapter Title1](./Ch01.md) |    :heavy_check_mark:    |
-| Ch02 | [Chapter Title2](./Ch02.md) | :hourglass_flowing_sand: |
-| Ch03 | [Chapter Title3](./Ch03.md) |        :no_entry:        |
+| No.  |                        Chapter Title                         | Duration (m:ss) |   Status   |
+| :--: | :----------------------------------------------------------: | :-------------: | :--------: |
+| P00  |              [运营师 & 商家学课指南](./P00.md)               |     `3:59`      | :no_entry: |
+|      |                      **— 基础认知篇 —**                      |                 |            |
+|      |              **第一章 本地商家运营师怎么赚钱**               |                 |            |
+| P01  |        [【必修】1. 本地商家运营师怎么赚钱](./P01.md)         |     `10:25`     | :no_entry: |
+|      |             **第二章 本地商家运营师的职业规划**              |                 |            |
+| P02  |       [【必修】2. 本地商家运营师的职业规划](./P02.md)        |     `10:29`     | :no_entry: |
+|      |                      **— 专业能力篇 —**                      |                 |            |
+|      |               **第三章 如何帮商家在抖音开店**                |                 |            |
+| P03  |         [【必修】3.1. 商家如何在抖音开店](./P03.md)          |     `8:52`      | :no_entry: |
+| P04  |         [【必修】3.2. 商家账号该怎么装修](./P04.md)          |     `11:46`     | :no_entry: |
+|      |              **第四章 如何帮商家设置团购套餐**               |                 |            |
+| P05  |             [4.1. 怎么设置收款账户？](./P05.md)              |     `2:01`      | :no_entry: |
+| P06  |         [【必修】4.2. 团购设置的基本思路](./P06.md)          |     `21:13`     | :no_entry: |
+| P07  |              [4.3. 美业团购设置攻略](./P07.md)               |     `14:27`     | :no_entry: |
+| P08  |            [4.4. 酒旅行业团购设置攻略](./P08.md)             |     `7:19`      | :no_entry: |
+| P09  |            [4.5. 休娱行业团购设置攻略](./P09.md)             |     `8:02`      | :no_entry: |
+|      |              **第五章 如何让顾客帮商家卖团购**               |                 |            |
+| P10  | [【必修】5.1. 如何让顾客帮商家发抖音（工具：爆满）](./P10.md) |     `8:23`      | :no_entry: |
+| P11  |              [5.2. 如何操作爆满工具](./P11.md)               |     `12:41`     | :no_entry: |
+| P12  |              [5.3. 如何玩转爆满工具](./P12.md)               |     `7:13`      | :no_entry: |
+| P13  |           [5.4. 视频素材拍什么、怎么拍](./P13.md)            |     `15:52`     | :no_entry: |
+|      |            **第六章 如何帮商家做自己的视频账号**             |                 |            |
+| P14  |          [6.1. 怎么剪辑视频（剪映教程）](./P14.md)           |     `14:24`     | :no_entry: |
+| P15  |                [6.2. 怎么发布视频](./P15.md)                 |     `9:19`      | :no_entry: |
+| P16  | [【必修】6.3. 一键生成爆款视频（工具：爆款生成器）](./P16.md) |     `6:05`      | :no_entry: |
+| P17  |             [6.4. 如何使用爆款生成器](./P17.md)              |     `7:10`      | :no_entry: |
+| P18  |         [6.5. 如何给视频买流量（本地推）](./P18.md)          |     `9:36`      | :no_entry: |
+|      |            **第七章 如何与达人合作帮商家卖团购**             |                 |            |
+| P19  |           [7.1. 如何用好达人为商家引流](./P19.md)            |     `20:22`     | :no_entry: |
+| P20  |           [7.2. 团购达人的三种合作模式](./P20.md)            |     `6:10`      | :no_entry: |
+| P21  |                [7.3. 如何筛选达人](./P21.md)                 |     `2:40`      | :no_entry: |
+| P22  |            [7.4. 与达人合作的注意事项](./P22.md)             |     `3:17`      | :no_entry: |
+| P23  |           [7.5. 如何与商家沟通达人计划](./P23.md)            |     `6:44`      | :no_entry: |
+| P24  |           [7.6. 如何与优质探店达人合作](./P24.md)            |     `10:08`     | :no_entry: |
+| P25  |          [7.7. 如何小投入与素人达人合作](./P25.md)           |     `3:43`      | :no_entry: |
+|      |                 **第八章 如何帮商家做直播**                  |                 |            |
+| P26  |             [8.1. 本地直播的正确认知](./P26.md)              |     `19:46`     | :no_entry: |
+| P27  |            [8.2. 直播的初阶及进阶玩法](./P27.md)             |     `14:08`     | :no_entry: |
+| P28  |               [8.3. 直播间组品策略](./P28.md)                |     `10:42`     | :no_entry: |
+| P29  |               [8.4. 直播结构与话术](./P29.md)                |     `7:27`      | :no_entry: |
+| P30  |               [8.5. 电脑如何开直播](./P30.md)                |     `8:54`      | :no_entry: |
+| P31  |                [8.6. 直播注意事项](./P31.md)                 |     `7:26`      | :no_entry: |
+| P32  | [【必修】8.7. 如何搭建虚拟直播间（工具：数字人直播）](./P32.md) |     `11:30`     | :no_entry: |
+| P33  |             [8.8. 数字人直播操作指南](./P33.md)              |     `5:54`      | :no_entry: |
+|      |                      **— 业务拓展篇 —**                      |                 |            |
+|      |                **第九章 如何与商家签约合作**                 |                 |            |
+| P34  |       [【必修】9.1. 新玩家怎么快速开第一单](./P34.md)        |     `16:55`     | :no_entry: |
+| P35  |                 [9.2. 如何找商家](./P35.md)                  |     `9:42`      | :no_entry: |
+| P36  |          [9.3. 老玩家怎么快速升单赚更多](./P36.md)           |     `13:13`     | :no_entry: |
+| P37  | [【必修】9.4. 如何拿下商家的运营权（绑抖音林客）](./P37.md)  |     `12:35`     | :no_entry: |
+| P38  |           [9.5. 如何搞定商家：销售技巧](./P38.md)            |     `16:55`     | :no_entry: |
+|      |                      **— 实操技巧篇 —**                      |                 |            |
+|      |               **第十章 如何帮商家做更多曝光**                |                 |            |
+| P39  |              [10.1. 如何玩转同城榜单](./P39.md)              |     `15:10`     | :no_entry: |
+|      |                 **第十一章 多平台引流攻略**                  |                 |            |
+| P40  |           [11.1. 如何用小红书为商家引流](./P40.md)           |     `13:55`     | :no_entry: |
 
 
 
 Powershell script for generating markdown files in batch:
 
 ```powershell
-# Create 13 empty markdown files named Ch##.md:
-for($i=1; $i -le 13; $i=$i+1){ New-Item -Name "Ch$('{0:d2}' -f $i).md"; }
+# Create 40 empty markdown files named Ch##.md:
+for($i=0; $i -le 40; $i=$i+1){ New-Item -Name "P$('{0:d2}' -f $i).md"; }
 ```
 
  
