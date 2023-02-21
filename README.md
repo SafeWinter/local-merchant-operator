@@ -29,9 +29,9 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 |      |                      **— 专业能力篇 —**                      |                 |                          |
 |      |               **第三章 如何帮商家在抖音开店**                |                 |                          |
 | P03  |         [【必修】3.1. 商家如何在抖音开店](./P03.md)          |     `8:52`      |    :heavy_check_mark:    |
-| P04  |         [【必修】3.2. 商家账号该怎么装修](./P04.md)          |     `11:46`     | :hourglass_flowing_sand: |
+| P04  |         [【必修】3.2. 商家账号该怎么装修](./P04.md)          |     `11:46`     |    :heavy_check_mark:    |
 |      |              **第四章 如何帮商家设置团购套餐**               |                 |                          |
-| P05  |             [4.1. 怎么设置收款账户？](./P05.md)              |     `2:01`      |        :no_entry:        |
+| P05  |             [4.1. 怎么设置收款账户？](./P05.md)              |     `2:01`      | :hourglass_flowing_sand: |
 | P06  |         [【必修】4.2. 团购设置的基本思路](./P06.md)          |     `21:13`     |        :no_entry:        |
 | P07  |              [4.3. 美业团购设置攻略](./P07.md)               |     `14:27`     |        :no_entry:        |
 | P08  |            [4.4. 酒旅行业团购设置攻略](./P08.md)             |     `7:19`      |        :no_entry:        |
